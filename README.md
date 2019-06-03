@@ -1,0 +1,2 @@
+# DIGITAL_SIGNATURES_OPENSSL_IMPLEMENTATIONS
+Implementations of the OpenSSL's Standardized Digital Signatures
